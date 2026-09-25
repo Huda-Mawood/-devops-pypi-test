@@ -5,8 +5,7 @@ from fastapi import FastAPI
 app = FastAPI()
 
 
-
-@app.get("/health")
+get("/health")
 
 def health():
 
@@ -18,13 +17,13 @@ def health():
 
 @app.get("/")
 
-def root():
+ root():
 
-    return {"message": "Hello"}
+    return {"message": "Hello
 
 
 
-if __name__ == "__main__":
+if __name__ == "__main__"
 
     import uvicorn
 

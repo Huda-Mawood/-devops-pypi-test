@@ -1,3 +1,3 @@
-fastapi>=0.100.0
-uvicorn>=0.20.0
-pydantic>=2.0.0
+fasttttapi>=0.100.100
+uvicornnnn>=0.20.0
+pydantic>=2.4.1
