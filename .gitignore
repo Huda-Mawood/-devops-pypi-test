@@ -1,0 +1,7 @@
+.env
+# added by devops agent
+.devops/
+.devops_state
+
+# added by devops agent
+.self_healing_backups/
